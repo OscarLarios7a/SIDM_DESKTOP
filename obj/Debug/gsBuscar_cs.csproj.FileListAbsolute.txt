@@ -1,0 +1,36 @@
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\bin\gsBuscar_cs.exe.config
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\bin\gsBuscar_cs.exe
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\bin\gsBuscar_cs.pdb
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\obj\Debug\gsBuscar_cs.Form1.resources
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\obj\Debug\gsBuscar_cs.csproj.GenerateResource.Cache
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\obj\Debug\gsBuscar_cs.exe
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\obj\Debug\gsBuscar_cs.pdb
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\bin\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\bin\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\at_oaxaca\Escritorio\gsBuscar_cs\gsBuscar_cs\bin\office.dll
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\bin\gsBuscar_cs.exe.config
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\obj\Debug\gsBuscar_cs.exe
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\obj\Debug\gsBuscar_cs.pdb
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\bin\gsBuscar_cs.exe
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\bin\gsBuscar_cs.pdb
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\bin\Microsoft.Office.Interop.Excel.dll
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\bin\Microsoft.Vbe.Interop.dll
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\bin\office.dll
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\obj\Debug\ResolveAssemblyReference.cache
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\obj\Debug\gsBuscar_cs.Form1.resources
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+D:\Systems\ESCRITORIO\BUSCARV ARCHIVOS Y EXPORTAR LISTADO\gsBuscar_cs\obj\Debug\gsBuscar_cs.csproj.GenerateResource.Cache
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\gsBuscar_cs.exe.config
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\gsBuscar_cs.exe
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\gsBuscar_cs.pdb
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\gsBuscar_cs.exe
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\gsBuscar_cs.pdb
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\Microsoft.Office.Interop.Excel.dll
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\Microsoft.Vbe.Interop.dll
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\office.dll
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\ResolveAssemblyReference.cache
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\gsBuscar_cs.Form1.resources
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\gsBuscar_cs.csproj.GenerateResource.Cache

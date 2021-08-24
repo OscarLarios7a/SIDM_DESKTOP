@@ -1,0 +1,273 @@
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\Microsoft.Office.Interop.Excel.dll
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\Microsoft.Vbe.Interop.dll
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\ResolveAssemblyReference.cache
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\gsBuscar_cs.Form1.resources
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\office.dll
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\SIDM.exe.config
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\SIDM.exe
+D:\Systems\ESCRITORIO\SIDM_V_2\bin\SIDM.pdb
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\SIDM.exe
+D:\Systems\ESCRITORIO\SIDM_V_2\obj\Debug\SIDM.pdb
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\bin\SIDM.exe.config
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\obj\Debug\SIDM.exe
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\obj\Debug\SIDM.pdb
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\obj\Debug\gsBuscar_cs.Form1.resources
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\bin\SIDM.exe
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\bin\SIDM.pdb
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\bin\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\bin\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\at_oaxaca\Escritorio\SIDM_V_2\bin\office.dll
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\bin\SIDM.exe.config
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\obj\Debug\SIDM.exe
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\obj\Debug\SIDM.pdb
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\bin\SIDM.exe
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\bin\SIDM.pdb
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\bin\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\bin\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\bin\office.dll
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\obj\Debug\gsBuscar_cs.Form1.resources
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+C:\Documents and Settings\at_oaxaca\Escritorio\Copia de SIDM_V_2\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\bin\SIDM.exe.config
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\obj\Debug\SIDM.exe
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\obj\Debug\SIDM.pdb
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\bin\SIDM.exe
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\bin\SIDM.pdb
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\bin\Microsoft.Office.Interop.Excel.dll
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\bin\Microsoft.Vbe.Interop.dll
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\bin\office.dll
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\obj\Debug\ResolveAssemblyReference.cache
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\obj\Debug\gsBuscar_cs.Form1.resources
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_2_0_0_1\obj\Debug\gsBuscar_cs.acerca_de.resources
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\bin\SIDM.exe.config
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\obj\Debug\SIDM.exe
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\obj\Debug\SIDM.pdb
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\bin\SIDM.exe
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\bin\SIDM.pdb
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\bin\Microsoft.Office.Interop.Excel.dll
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\bin\Microsoft.Vbe.Interop.dll
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\bin\office.dll
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\obj\Debug\ResolveAssemblyReference.cache
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\obj\Debug\gsBuscar_cs.acerca_de.resources
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\obj\Debug\gsBuscar_cs.Form1.resources
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+D:\Systems\ESCRITORIO\SIDM\SIDM_V_3_revision_2012\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+D:\humber\SIDM_V_3_revision_2012\bin\SIDM.exe.config
+D:\humber\SIDM_V_3_revision_2012\obj\Debug\SIDM.exe
+D:\humber\SIDM_V_3_revision_2012\obj\Debug\SIDM.pdb
+C:\System\SIDM_V_3_revision_2012\bin\SIDM.exe.config
+C:\System\SIDM_V_3_revision_2012\obj\Debug\SIDM.exe
+C:\System\SIDM_V_3_revision_2012\obj\Debug\SIDM.pdb
+C:\System\SIDM_V_4_revision_2013\bin\SIDM.exe.config
+C:\System\SIDM_V_4_revision_2013\obj\Debug\SIDM.exe
+C:\System\SIDM_V_4_revision_2013\obj\Debug\SIDM.pdb
+C:\System\SIDM_V_4_revision_2013\bin\SIDM.exe
+C:\System\SIDM_V_4_revision_2013\bin\SIDM.pdb
+C:\System\SIDM_V_4_revision_2013\bin\Microsoft.Office.Interop.Excel.dll
+C:\System\SIDM_V_4_revision_2013\bin\office.dll
+C:\System\SIDM_V_4_revision_2013\bin\Microsoft.Vbe.Interop.dll
+C:\System\SIDM_V_4_revision_2013\obj\Debug\ResolveAssemblyReference.cache
+C:\System\SIDM_V_4_revision_2013\obj\Debug\gsBuscar_cs.acerca_de.resources
+C:\System\SIDM_V_4_revision_2013\obj\Debug\gsBuscar_cs.Form1.resources
+C:\System\SIDM_V_4_revision_2013\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+C:\System\SIDM_V_4_revision_2013\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+C:\System\SIDM_V_4_revision_2013\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+C:\System\SIDM_V5_revision_mayo_2013\bin\SIDM.exe.config
+C:\System\SIDM_V5_revision_mayo_2013\obj\Debug\SIDM.exe
+C:\System\SIDM_V5_revision_mayo_2013\obj\Debug\SIDM.pdb
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\bin\SIDM.exe.config
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\obj\Debug\SIDM.exe
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\obj\Debug\SIDM.pdb
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\bin\SIDM.exe
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\bin\SIDM.pdb
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\bin\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\bin\System.Data.SQLite.dll
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\bin\office.dll
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\bin\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\bin\System.Data.SQLite.pdb
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\obj\Debug\gsBuscar_cs.acerca_de.resources
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\obj\Debug\gsBuscar_cs.Form1.resources
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+C:\Documents and Settings\AT-OAXACA\Escritorio\img dms\SIDM_V5_revision_mayo_2013\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+C:\Documents and Settings\AT_OAXACA\Escritorio\IMG\SIDM_V5_revision_mayo_2013\bin\SIDM.exe.config
+C:\Documents and Settings\AT_OAXACA\Escritorio\IMG\SIDM_V5_revision_mayo_2013\obj\Debug\SIDM.exe
+C:\Documents and Settings\AT_OAXACA\Escritorio\IMG\SIDM_V5_revision_mayo_2013\obj\Debug\SIDM.pdb
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\bin\SIDM.exe.config
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\obj\Debug\SIDM.exe
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\obj\Debug\SIDM.pdb
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\bin\SIDM.exe
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\bin\SIDM.pdb
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\bin\office.dll
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\bin\Microsoft.Vbe.Interop.dll
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\bin\System.Data.SQLite.pdb
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\obj\Debug\gsBuscar_cs.acerca_de.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\obj\Debug\gsBuscar_cs.Form1.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V5_revision_mayo_2013\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\bin\SIDM.exe.config
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\obj\Debug\SIDM.exe
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\obj\Debug\SIDM.pdb
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\bin\SIDM.exe
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\bin\SIDM.pdb
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\bin\office.dll
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\bin\Microsoft.Vbe.Interop.dll
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\bin\System.Data.SQLite.pdb
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\obj\Debug\gsBuscar_cs.acerca_de.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\obj\Debug\gsBuscar_cs.Form1.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V6_Julio_2014\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\bin\SIDM.exe.config
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\obj\Debug\SIDM.exe
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\obj\Debug\SIDM.pdb
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\bin\SIDM.exe
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\bin\SIDM.pdb
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\bin\office.dll
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\bin\Microsoft.Vbe.Interop.dll
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\bin\System.Data.SQLite.pdb
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\obj\Debug\gsBuscar_cs.acerca_de.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\obj\Debug\gsBuscar_cs.Form1.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+C:\Users\CEPRA01\Desktop\escritorio3\IMG\SIDM_V7_Agosto_2014\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V7_Agosto_2014\bin\SIDM.exe.config
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V7_Agosto_2014\obj\Debug\SIDM.exe
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V7_Agosto_2014\obj\Debug\SIDM.pdb
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\SIDM.exe.config
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM.exe
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM.pdb
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\SIDM.exe
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\SIDM.pdb
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\Microsoft.Office.Interop.Excel.dll
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\office.dll
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\Microsoft.Vbe.Interop.dll
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\System.Data.SQLite.pdb
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.acerca_de.resources
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Form1.resources
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+F:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\SIDM.exe.config
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM.exe
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM.pdb
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\SIDM.exe
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\SIDM.pdb
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\Microsoft.Office.Interop.Excel.dll
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\office.dll
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\Microsoft.Vbe.Interop.dll
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\System.Data.SQLite.pdb
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Form1.resources
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+G:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\SIDM.exe.config
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM.exe
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM.pdb
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\SIDM.exe
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\SIDM.pdb
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\office.dll
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\Microsoft.Vbe.Interop.dll
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Form1.resources
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\System.Data.SQLite.dll
+E:\ESCRITORIO_PC_TRABAJO\escritorio3\IMG\SIDM_V8_Agosto_2014\bin\stdole.dll
+E:\SIDM_V8_Agosto_2014\bin\SIDM.exe.config
+E:\SIDM_V8_Agosto_2014\obj\Debug\SIDM.exe
+E:\SIDM_V8_Agosto_2014\obj\Debug\SIDM.pdb
+E:\SIDM_V8_Agosto_2014\bin\SIDM.exe
+E:\SIDM_V8_Agosto_2014\bin\SIDM.pdb
+E:\SIDM_V8_Agosto_2014\bin\System.Data.SQLite.DLL
+E:\SIDM_V8_Agosto_2014\bin\office.dll
+E:\SIDM_V8_Agosto_2014\bin\Microsoft.Vbe.Interop.dll
+E:\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
+E:\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Form1.resources
+E:\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+E:\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+E:\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+D:\SIDM_V8_Agosto_2014\bin\SIDM.exe.config
+D:\SIDM_V8_Agosto_2014\obj\Debug\SIDM.exe
+D:\SIDM_V8_Agosto_2014\obj\Debug\SIDM.pdb
+D:\SIDM_V8_Agosto_2014\bin\SIDM.exe
+D:\SIDM_V8_Agosto_2014\bin\SIDM.pdb
+D:\SIDM_V8_Agosto_2014\bin\System.Data.SQLite.DLL
+D:\SIDM_V8_Agosto_2014\bin\office.dll
+D:\SIDM_V8_Agosto_2014\bin\Microsoft.Vbe.Interop.dll
+D:\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
+D:\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Form1.resources
+D:\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+D:\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+D:\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+F:\SIDM_V8_Agosto_2014\bin\SIDM.exe.config
+F:\SIDM_V8_Agosto_2014\obj\Debug\SIDM.exe
+F:\SIDM_V8_Agosto_2014\obj\Debug\SIDM.pdb
+F:\SIDM_V8_Agosto_2014\bin\SIDM.exe
+F:\SIDM_V8_Agosto_2014\bin\SIDM.pdb
+F:\SIDM_V8_Agosto_2014\bin\System.Data.SQLite.DLL
+F:\SIDM_V8_Agosto_2014\bin\office.dll
+F:\SIDM_V8_Agosto_2014\bin\Microsoft.Vbe.Interop.dll
+F:\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
+F:\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Form1.resources
+F:\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+F:\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+F:\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\SIDM.exe.config
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\SIDM.exe
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\SIDM.pdb
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\SIDM.exe
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\SIDM.pdb
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\System.Data.SQLite.DLL
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\office.dll
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\Microsoft.Vbe.Interop.dll
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Form1.resources
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+D:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\SIDM.exe.config
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\SIDM.exe
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\SIDM.pdb
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\SIDM.exe
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\SIDM.pdb
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\System.Data.SQLite.DLL
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\office.dll
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\bin\Microsoft.Vbe.Interop.dll
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Form1.resources
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+E:\RESPALDO_PERSONALES\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+D:\AT_OAXACA\Desktop\SIDM_V8_Agosto_2014\bin\SIDM.exe.config
+D:\AT_OAXACA\Desktop\SIDM_V8_Agosto_2014\obj\Debug\SIDM.exe
+D:\AT_OAXACA\Desktop\SIDM_V8_Agosto_2014\obj\Debug\SIDM.pdb
+D:\AT_OAXACA\Desktop\SIDM_V8_Agosto_2014\bin\SIDM.exe
+D:\AT_OAXACA\Desktop\SIDM_V8_Agosto_2014\bin\SIDM.pdb
+D:\AT_OAXACA\Desktop\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Form1.resources
+D:\AT_OAXACA\Desktop\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.FRM_KIBIXcs.resources
+D:\AT_OAXACA\Desktop\SIDM_V8_Agosto_2014\obj\Debug\gsBuscar_cs.Properties.Resources.resources
+D:\AT_OAXACA\Desktop\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csproj.GenerateResource.Cache
+D:\AT_OAXACA\Desktop\SIDM_V8_Agosto_2014\obj\Debug\SIDM_V2.csprojResolveAssemblyReference.cache
